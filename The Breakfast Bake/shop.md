@@ -24,3 +24,9 @@ Items:
                  Also interchangeable for waffles!
     Type: Recipe
 
+  - Name: Meltness Maximum (Recipe)
+    Price: 13 D$
+    Description: Sandwiches, for any time of day, including
+                 breakfast. Filled with cheese and optional
+                 meat!
+    Type: Recipe
